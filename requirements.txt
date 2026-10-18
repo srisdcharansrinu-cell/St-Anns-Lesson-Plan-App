@@ -1,5 +1,5 @@
-Pillow
-reportlab
 Flask
 gunicorn
+reportlab
 python-docx
+pypdf
