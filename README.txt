@@ -1,11 +1,10 @@
 ST. ANN'S COLLEGE - LESSON PLAN QUESTION GENERATOR
 
 Files:
--Flask
-gunicorn
-reportlab
-python-docx
-pypdf
+- app.py
+- college_logo.jpg  (the complete letterhead image supplied by you)
+- requirements.txt
+
 Windows setup:
 1. Keep all three files in the same folder.
 2. Open Command Prompt in that folder.
