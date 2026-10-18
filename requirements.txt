@@ -3,3 +3,4 @@ gunicorn
 reportlab
 python-docx
 pypdf
+Pillow
